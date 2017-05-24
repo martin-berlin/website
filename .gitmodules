@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/martin-berlin/martin-berlin.github.io.git
