@@ -1,4 +1,4 @@
-baseurl = "https://martin-berlin.github.io"
+baseurl = "https://martin-berlin.github.io/"
 title = "Martin Berlin"
 copyright = "&copy; 2017 Martin Berlin"
 theme = "academic"
@@ -81,7 +81,7 @@ defaultContentLanguageInSubdir = false
   # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -155,7 +155,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Research"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
