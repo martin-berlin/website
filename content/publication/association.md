@@ -5,7 +5,7 @@ date = "2017-01-29"
 image_preview = ""
 math = true
 publication_types = ["4"]
-publication = "SOFI Working Paper"
+publication = "SOFI Working Paper, 1 / 2017"
 selected = true
 title = "The Association Between Life Satisfaction and Affective Well-Being"
 url_code = ""
@@ -15,9 +15,9 @@ url_pdf = "http://su.diva-portal.org/smash/get/diva2:1072539/FULLTEXT01.pdf"
 #url_slides = "#"
 #url_video = "#"
 
-#[[url_custom]]
-#name = "Custom Link"
-#url = "http://www.example.org"
+[[url_custom]]
+name = "Survey documentation"
+url = "http://www.su.se/polopoly_fs/1.320888.1487438947!/menu/standard/file/Survey.pdf"
 
 # Optional featured image (relative to `static/img/` folder).
 #[header]

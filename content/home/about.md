@@ -27,4 +27,10 @@ weight = 1
 
 # About me
 
-I'm a PhD candidate in economics at the Swedish Institute for Social Research (SOFI) at Stockholm University, expecting to graduate in August 2017. I'm broadly interested in the economics and psychology of subjective well-being (SWB). My research concerns SWB in relation to economic conditions and time use, and different issues related to the measurement and conceptualization of SWB.
+I'm a PhD candidate in economics at the Swedish Institute for Social Research
+(SOFI) at Stockholm University. I will defend my thesis, [Essays on the
+Determinants and Measurement of Subjective Well-Being](http://su.diva-portal.org/smash/get/diva2:1092457/FULLTEXT01.pdf), on 18 August 2017. I'm
+broadly interested in the economics and psychology of subjective well-being
+(SWB). My research concerns SWB in relation to economic conditions and time
+use, and different issues related to the measurement and conceptualization of
+SWB.

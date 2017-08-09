@@ -25,9 +25,9 @@ defaultContentLanguageInSubdir = false
   organization_url = "www.sofi.su.se"
   avatar = "portrait.jpg"
   email = "mno.berlin@gmail.com"
-  address = "Room F848, Stockholm University, Stockholm, Sweden"
+  address = "Swedish Institute for Social Research, Stockholm University, Stockholm, Sweden"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  # phone = "888 888 88 88"
+  phone = "+468162519"
   # skype = "echo123"
   telegram = ""
 
@@ -164,9 +164,14 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight = 6
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
